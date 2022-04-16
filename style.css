@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+ margin-left: 15%;
+}
+table, th, td {
+  border: 1px solid lightblue;
+  border-collapse: collapse;
+  padding: 8px;
+
+}
+tr {
+  height: 70px;
+}
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 40%;
+}
+#saying {
+  border: 2px groove black;
+  box-shadow: 2px 2px 2px 2px;
+  padding: 8px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#box {
+  font-size: 22px;
+  background-color: lightblue;
+  padding: 8px;
+}
+#size {
+  font-size: 30px;
+}
